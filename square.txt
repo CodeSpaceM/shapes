@@ -5,3 +5,6 @@ Thus is my second file, square.txt.
 
 //commited area does not relly exist.
 // There are only two areas, the unstaged area and the staged area.
+
+// origin is the shorthand name for the remote repository
+// master is the defailt branch if that repository.
