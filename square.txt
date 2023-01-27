@@ -1,0 +1,7 @@
+Thus is my second file, square.txt.
+//write code here
+
+
+
+//commited area does not relly exist.
+// There are only two areas, the unstaged area and the staged area.
