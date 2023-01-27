@@ -14,3 +14,5 @@ Can anybody push to my project on github?
 No, but if the repository is public others can fork it, commit to their own fork.
 
 They can then ask you to pull some of the changes in their fork into your repository via a pull-request.
+
+//Token is needed now in Github, and passwords for authentication.
